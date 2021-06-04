@@ -7,7 +7,7 @@ permalink: /crosstabs/Changes in Colorado's Educational Attainment 2010 to 2019/
 
 ---
 
-<div><i src ="https://drive.google.com/file/d/1uzifWJ0G2U40j9M0teKjR7qgVa1UAzNg/view?usp=sharing" width="100%"></i></div>;
+<div><i src ="https://coloradodemography.github.io/images/AdobeStock_291771935.jpeg" width="100%"></i></div>;
 <br>
 
 An analysis of educational attainment among Colorado residents age 25 and older shows:
