@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Changes in Colorado's Educational Attainment 2010 to 2019"
 date:   2021-06-04
