@@ -1,4 +1,3 @@
----
 layout: post
 title:  "Changes in Colorado's Educational Attainment 2010 to 2019"
 date:   2021-06-04
@@ -7,8 +6,11 @@ permalink: /crosstabs/Changes in Colorado's Educational Attainment 2010 to 2019/
 
 ---
 
-<div><i src ="https://coloradodemography.github.io/images/AdobeStock_291771935.jpeg" width="100%"></i></div>;
+
+<div style="text-align:center"><img src ="https://drive.google.com/uc?export=view&id=1tUltP52QRMraBZDSPIP1mHwQR4A084QA" width="100%"/></div>&nbsp;
 <br>
+
+**Changes in Colorado's Educational Attainment 2010 to 2019**
 
 An analysis of educational attainment among Colorado residents age 25 and older shows:
 
@@ -22,5 +24,4 @@ that can attract highly educated people, than a persistent problem of Colorado's
 --In 2019, 18.5 percent of Colorado's Hispanic population over age 25 held at least a bachelor's degree compared to 17.5 percent of the U.S. States Hispanic population.  Colorado ranks 23rd in the nation in terms of educational attainment among people identifying as Hispanic compared to 2nd in the US for the total population, illustrating the continued gap in attainment by race and ethnicity.  Addressing this gap will be critical for Colorado’s continued productivity.  Across the board, Colorado has seen an increase in the population with a Bachelor's degree or higher regardless of race or ethnicity and regardless of place of birth. However, significant gaps still exist by place of birth as well as by race and ethnicity.
 
 
-Access the full paper [here](https://drive.google.com/uc?export=download10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXpg)
-
+Access the full paper [here](https://drive.google.com/uc?export=download&10xsjPoC0YFR5wr43hgLSt1X_PnRLQfXp)
