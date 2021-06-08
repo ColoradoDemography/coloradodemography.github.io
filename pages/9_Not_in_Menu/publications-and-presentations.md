@@ -27,6 +27,7 @@ published: true
 - - -
 
 #### Publications and Reports
+- [Changes in Colorado's Educational Attainment 2010 to 2019 (2021) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1LWeTWrcxYUl-MjNRVADt5xyn4z-GHuo9)
 - [Colorado's Population and Economic Trends (2019) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1ftugvPGk5GDFzxan0XAJKq9ytGr7sdCg)
 - [Characteristics of Colorado Migrants (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1UaUuhTWxQiX7Kdu-b3vJn8J9V10BtOFn)
 - [Colorado Non-Renewable Resources Update (2018) ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1cT9svV10PxlrC46ucauNJttgJc0GS4sN)
