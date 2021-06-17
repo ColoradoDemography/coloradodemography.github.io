@@ -87,8 +87,8 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
   - Discuss the current state of Census Differential Privacy adjustments
   - Discuss current schedule of redistricting data file (PL-94-171) and other data releases
   - Discuss SDO data dissemination plans/tools
-  - [Registration Link](https://zoom.us/meeting/register/tJctf-ChpjktG9ALOb9QfvHBcUh3HzWNN1BH) 
-  - [Presentation Slides![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15R9VBUJcyS-ViNFULSA4weq7P1VfTqjU)
+  - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=15R9VBUJcyS-ViNFULSA4weq7P1VfTqjU)
+  - Video -- Coming Soon
 - Q3 2021 September, TBA
 - Q4 2021 State Demography Summit, November 5, 2021
 
