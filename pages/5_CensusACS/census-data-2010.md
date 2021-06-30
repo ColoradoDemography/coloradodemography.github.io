@@ -14,8 +14,6 @@ description: "A collection of resources for 2010 Census Data"
 
 The State Demography Office will continue to evaluate data from the 2010 Census, and will be posting new tables as they become available, so check back often! Our press releases are available here.
 
-Check out our [Training Opportunities](/demography/training#training) page for easy-to-follow guides to using American FactFinder.
-
 ### Urban/Rural Data
 
 Urban/Rural data from the 2010 Census in both excel and map formats are available below, including counts by county as well as historical counts for 1990 and 2000 for comparison.
