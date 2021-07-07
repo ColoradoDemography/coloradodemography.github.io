@@ -76,7 +76,7 @@ Released May 19th 2011, the Demographic Profiles provide 2010 Census data on age
 
 ### Race and Hispanic Origin
 
-- [Race & Ethnicity (including 18+, % and Absolute Change from 2000 to 2010) by County (multiple tabs) ![xls](/images/page_white_excel.png 'download xls file')](https://storage.googleapis.commaps-static/race%20and%20hispanic%20origin%20counties_change2000to2010.zip)
+- [Race & Ethnicity (including 18+, % and Absolute Change from 2000 to 2010) by County (multiple tabs) ![xls](/images/page_white_excel.png 'download xls file')](https://storage.googleapis.com/maps-static/race%20and%20hispanic%20origin%20counties_change2000to2010.zip)
 - [Race by Hispanic Origin by Selected Age Groups by County ![xls](/images/page_white_excel.png 'download xls file')](https://storage.googleapis.com/maps-static/RaceByHispanicOriginbyAgeCounties.zip)
 - [State Totals and Change from 2000-10 ![xls](/images/page_white_excel.png 'download xls file')](https://storage.googleapis.com/maps-static/race%20and%20hispanic%20origin%20state_2000%202010.zip)
 - [State and Counties ![xls](/images/page_white_excel.png 'download xls file')](https://storage.googleapis.com/maps-static/race%20and%20hispanic%20origin%20counties.zip)
