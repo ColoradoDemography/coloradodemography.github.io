@@ -30,7 +30,7 @@ Maps:
 - [Percent Change in Rural Population 2000-2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctChgRuralMap.png)
 - [Percent Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/PctRuralPopMap.png)
 - [Share of Colorado\'s Rural Population 2010 (County) ![image](/images/page_white_picture.png 'download image file')](https://storage.googleapis.com/maps-static/RuralSharePopMap.png)
-- [Ruban vs Rural Definitions, Census 2010 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/UrbanRural.pdf)
+- [Urban vs Rural Definitions, Census 2010 ![pdf](/images/page_white_acrobat.png 'download pdf file')](https://storage.googleapis.com/maps-static/UrbanRural.pdf)
 
 
 ### Demographic Profiles of General Population and Housing Characteristics
