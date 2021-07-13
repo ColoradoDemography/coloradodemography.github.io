@@ -25,7 +25,7 @@ The State Demography Office maintains a library of Colorado-specific data produc
 
 **Decennial Census**
 
-- [2020 Census Information](https://demography.dola.colorado.gov/census_2020/)
+- [2020 Census Data Updates](/census-acs/2020-census-data#census-data-for-colorado-2020)
 - [2010 Census Data](/census-acs/2010-census-data#census-data-for-colorado-2010)
 - [2000 Census Data](/census-acs/2000-census-data#census-data-2000)
 - [Historical Census Data](https://nhgis.org) 
