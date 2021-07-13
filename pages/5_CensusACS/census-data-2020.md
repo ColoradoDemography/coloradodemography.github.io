@@ -20,11 +20,11 @@ The U.S. Census Bureau has announced that it will release redistricting data, i.
 This data release will provide population data, by voting age and race and ethnicity for all geographies.  
 The State Demogrpahy Office will post excel files, maps, and data files on this page as soon as possible after August 16.
 
-The Demographic and Housing Characteristics data files, which provide deailed information for most population characteristics, will be released beginning in 2022.
+The Demographic and Housing Characteristics data files, which provide detailed information for most population characteristics, will be released beginning in 2022.
 
 
 #### Resources
-- [2020 Census Redistricting Data Release Video](https://www.census.gov/library/video/2021/2020-census-redistricting-data-release.html?utm_campaign=20210712msacos1ccstors&utm_medium=email&utm_source=govdelivery)
+- [2020 Census Redistricting Data Release](https://www.census.gov/library/video/2021/2020-census-redistricting-data-release.html?utm_campaign=20210712msacos1ccstors&utm_medium=email&utm_source=govdelivery)
 - [State Demography Office "Review of 2020 Census data release" webinar](https://demography.dola.colorado.gov/demography/publications-and-presentations/#quarterly-webinars)
 
 
