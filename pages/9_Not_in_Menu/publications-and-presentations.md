@@ -92,8 +92,6 @@ We've moved all of our profiles to their own page, which can be found [here.](ht
 - Q3 2021 September, TBA
 - Q4 2021 State Demography Summit, November 5, 2021
 
-- - -
-
 - Q2 2020 Navigating data.census.gov (April, 2020)
    - [Presentation![pdf](/images/page_white_acrobat.png 'download pdf file')](https://drive.google.com/uc?export=download&id=1e5xNp_iA5vb7kNo0y1mAaZvtgbyYBplZ)
 - Q3 2020 Navigating Microdata on data.census.gov (July, 2020) 
