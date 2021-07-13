@@ -17,7 +17,7 @@ The State Demography Office will continue to evaluate data from the 2020 Census,
 ### Updates on Redistricting and Demographic and Housing Characteristics Data Releases
 The U.S. Census Bureau has announced that it will release redistricting data, i.e., data required by Public Law 94-171, by **August 16, 2021**.
 
-This data release will provide population data, by voting age and race and ethnicity for all geographies.  
+This data release will provide population counts by voting age and race and ethnicity, group quarters counts, and housing occupancy counts for all geographies.  
 The State Demogrpahy Office will post excel files, maps, and data files on this page as soon as possible after August 16.
 
 The Demographic and Housing Characteristics data files, which provide detailed information for most population characteristics, will be released beginning in 2022.
