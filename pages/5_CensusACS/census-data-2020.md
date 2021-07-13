@@ -12,10 +12,10 @@ description: "A collection of resources for 2020 Census Data"
 
 - - -
 
-The State Demography Office will continue to evaluate data from the 2020 Census, and will be posting new tables as they become available, so check back often! Our press releases are available here.
+The State Demography Office will continue to evaluate data from the 2020 Census, and will be posting new tables as they become available, so check back often! 
 
 ### Updates on Redistricting and Demographic and Housing Characteristics Data Releases
-The U.S. Census Bureau has announced that it will release redistricting data, i.e., data required by Public Law 94-171, by *August 16, 2021*.
+The U.S. Census Bureau has announced that it will release redistricting data, i.e., data required by Public Law 94-171, by **August 16, 2021**.
 This data release will provide population data, by voting age and race and ethnicity for all geographies.  
 The State Demogrpahy Office will post excel files, maps, and data files on this page as soon as possible after August 16.
 
