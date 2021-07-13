@@ -24,7 +24,7 @@ The Demographic and Housing Characteristics data files, which provide deailed in
 
 
 #### Resources
-- [2020 Census Redistricting Data Release](https://www.census.gov/library/video/2021/2020-census-redistricting-data-release.html?utm_campaign=20210712msacos1ccstors&utm_medium=email&utm_source=govdelivery)
+- [2020 Census Redistricting Data Release Video](https://www.census.gov/library/video/2021/2020-census-redistricting-data-release.html?utm_campaign=20210712msacos1ccstors&utm_medium=email&utm_source=govdelivery)
 - [State Demography Office "Review of 2020 Census data release" webinar](https://demography.dola.colorado.gov/demography/publications-and-presentations/#quarterly-webinars)
 
 
